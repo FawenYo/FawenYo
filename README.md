@@ -7,5 +7,6 @@
 - 🎓 College: Department of Agricultural Economics, National Taiwan University.
 - 📖 Email：b07607001@ntu.edu.tw
 - 💻 Programming: Python, Flutter, Web page design(HTML / React), kotlin, C#, R lang
+- 🌏 Website: [FawenYo](https://fawenyo.ml/)
 
 ![FawenYo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FawenYo&layout=compact)
