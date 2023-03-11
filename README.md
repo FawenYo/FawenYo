@@ -5,7 +5,7 @@
 #### I'm FawenYo
 
 - 🎓 College: Department of Agricultural Economics, National Taiwan University.
-- 📖 Email：b07607001@ntu.edu.tw
+- 📖 Email：sky80838@gmail.com
 - 💻 Programming: DevOps (Terraform, Kubernetes, Helm), Python, Flutter, Frontend(HTML / React), Kotlin, C#, R lang
 - 🌏 Website: [FawenYo](https://fawenyo.ml/)
 
